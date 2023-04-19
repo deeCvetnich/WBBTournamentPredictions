@@ -1,0 +1,125 @@
+,TEAM1,TEAM2,PRED,ANS
+252,Albany ,Louisville ,1,0
+253,Louisville ,Albany ,1,1
+254,American ,Michigan ,1,0
+255,Michigan ,American ,1,1
+256,Arkansas ,Utah ,1,0
+257,Utah ,Arkansas ,1,1
+258,Belmont ,Oregon ,1,1
+259,Oregon ,Belmont ,1,0
+260,Belmont ,Tennessee ,1,0
+261,Tennessee ,Belmont ,1,1
+262,Buffalo ,Tennessee ,0,0
+263,Tennessee ,Buffalo ,1,1
+264,Central Florida ,Connecticut ,1,0
+265,Connecticut ,Central Florida ,1,1
+266,Charlotte ,Indiana ,1,0
+267,Indiana ,Charlotte ,1,1
+268,Connecticut ,NC State ,1,1
+269,NC State ,Connecticut ,1,0
+270,Connecticut ,South Carolina ,1,0
+271,South Carolina ,Connecticut ,1,1
+272,Connecticut ,Stanford ,1,1
+273,Stanford ,Connecticut ,1,0
+274,Creighton ,Colorado ,1,1
+275,Colorado ,Creighton ,1,0
+276,Creighton ,Iowa ,1,1
+277,Iowa ,Creighton ,1,0
+278,Creighton ,Iowa State ,1,1
+279,Iowa State ,Creighton ,1,0
+280,Creighton ,South Carolina ,1,0
+281,South Carolina ,Creighton ,1,1
+282,Dayton ,Georgia ,1,0
+283,Georgia ,Dayton ,1,1
+284,Delaware ,Maryland ,1,0
+285,Maryland ,Delaware ,1,1
+286,Fairfield ,Texas ,1,0
+287,Texas ,Fairfield ,0,1
+288,Florida ,Central Florida ,1,0
+289,Central Florida ,Florida ,1,1
+290,Florida Gulf Coast ,Maryland ,1,0
+291,Maryland ,Florida Gulf Coast ,1,1
+292,Florida Gulf Coast ,Virginia Tech ,1,1
+293,Virginia Tech ,Florida Gulf Coast ,1,0
+294,Georgia ,Iowa State ,1,0
+295,Iowa State ,Georgia ,1,1
+296,Georgia Tech ,Kansas ,1,0
+297,Kansas ,Georgia Tech ,1,1
+298,Gonzaga ,Louisville ,1,0
+299,Louisville ,Gonzaga ,1,1
+300,Gonzaga ,Nebraska ,1,1
+301,Nebraska ,Gonzaga ,1,0
+302,Hawaii ,Baylor ,1,0
+303,Baylor ,Hawaii ,1,1
+304,Howard ,South Carolina ,1,0
+305,South Carolina ,Howard ,1,1
+306,Illinois State ,Iowa ,1,0
+307,Iowa ,Illinois State ,1,1
+308,IUPUI ,Oklahoma ,1,0
+309,Oklahoma ,IUPUI ,1,1
+310,Jackson State ,Louisiana State ,1,0
+311,Louisiana State ,Jackson State ,1,1
+312,Kansas ,Stanford ,1,0
+313,Stanford ,Kansas ,1,1
+314,Kansas State ,NC State ,1,0
+315,NC State ,Kansas State ,1,1
+316,Kansas State ,Washington State ,1,1
+317,Washington State ,Kansas State ,1,0
+318,Longwood ,NC State ,1,0
+319,NC State ,Longwood ,1,1
+320,Louisville ,South Carolina ,1,0
+321,South Carolina ,Louisville ,1,1
+322,Maryland ,Stanford ,1,0
+323,Stanford ,Maryland ,1,1
+324,Massachusetts ,Notre Dame ,1,0
+325,Notre Dame ,Massachusetts ,1,1
+326,Mercer ,Connecticut ,0,0
+327,Connecticut ,Mercer ,1,1
+328,Miami ,South Carolina ,1,0
+329,South Carolina ,Miami ,0,1
+330,Michigan ,Louisville ,1,0
+331,Louisville ,Michigan ,0,1
+332,Missouri State ,Ohio State ,1,0
+333,Ohio State ,Missouri State ,1,1
+334,Montana State ,Stanford ,1,0
+335,Stanford ,Montana State ,1,1
+336,Nevada-Las Vegas ,Arizona ,1,0
+337,Arizona ,Nevada-Las Vegas ,1,1
+338,North Carolina ,Arizona ,1,1
+339,Arizona ,North Carolina ,1,0
+340,North Carolina ,South Carolina ,1,0
+341,South Carolina ,North Carolina ,1,1
+342,Notre Dame ,NC State ,1,0
+343,NC State ,Notre Dame ,0,1
+344,Notre Dame ,Oklahoma ,1,1
+345,Oklahoma ,Notre Dame ,1,0
+346,Ohio State ,Louisiana State ,1,1
+347,Louisiana State ,Ohio State ,1,0
+348,Ohio State ,Texas ,1,0
+349,Texas ,Ohio State ,1,1
+350,Princeton ,Indiana ,1,0
+351,Indiana ,Princeton ,1,1
+352,Princeton ,Kentucky ,1,1
+353,Kentucky ,Princeton ,1,0
+354,South Dakota ,Baylor ,0,1
+355,Baylor ,South Dakota ,1,0
+356,South Dakota ,Michigan ,1,0
+357,Michigan ,South Dakota ,1,1
+358,South Dakota ,Mississippi ,1,1
+359,Mississippi ,South Dakota ,1,0
+360,South Florida ,Miami ,1,0
+361,Miami ,South Florida ,1,1
+362,Stephen F. Austin ,North Carolina ,1,0
+363,North Carolina ,Stephen F. Austin ,1,1
+364,Tennessee ,Louisville ,1,0
+365,Louisville ,Tennessee ,1,1
+366,Texas ,Stanford ,1,0
+367,Stanford ,Texas ,1,1
+368,UT Arlington ,Iowa State ,1,0
+369,Iowa State ,UT Arlington ,1,1
+370,Utah ,Texas ,1,0
+371,Texas ,Utah ,1,1
+372,Villanova ,Brigham Young ,1,1
+373,Brigham Young ,Villanova ,1,0
+374,Villanova ,Michigan ,1,0
+375,Michigan ,Villanova ,1,1
